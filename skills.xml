@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+	<Test Documentation= "Types">
+		<First>Check List</First>
+		<Second>Test case</Second>
+		<Third>Bug report</Third>
+		<Fourth>Use case</Fourth>
+	</Test>
+	<Types BlackBoxTest= "Types">
+		<First>Функциональное тестирование</First>
+                <Second>Нефункциональное тестирование</Second>
+		<Third>Регрессионное тестирование</Third>
+	</Types>
+</skills>
+
+
+

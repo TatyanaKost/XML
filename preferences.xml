@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<start>
+	<About user="KTS">
+		<Film>Titanic</Film>
+		<TVseries>Friends</TVseries>
+		<Food>Pizza</Food>
+		<YearSeason>Summer</YearSeason>
+		<Country>Thailand</Country>
+	</About>
+</start>
+
